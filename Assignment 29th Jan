@@ -1,0 +1,16 @@
+Guido Van Rossum.
+Object oriented programming
+Yes
+Py
+First compiled then interpreted
+print("Hello World")
+#
+sys.version
+Lambda
+Package Manager
+len(), list(), round()
+79 charatcters
+Open source, easy to work, OOPs programing, work with less code
+garbage collection
+
+Python indentation refers to adding white space before a statement to a particular block of code. In another word, all the statements with the same space to the right, belong to the same code block
